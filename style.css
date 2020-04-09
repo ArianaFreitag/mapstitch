@@ -1,0 +1,143 @@
+body {
+  cursor: crosshair;
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+
+
+.big-container {
+  position: inline-block;
+  width: 4608px;
+}
+/* image 1  and 2 */
+
+/* row 1 */
+.one {
+  top: 0;
+  left: 0;
+  float: left;
+}
+
+.two {
+  top: 0;
+  float: left;
+}
+
+.three {
+  top: 0;
+  float: left;
+}
+
+.four {
+  top: 0;
+  float: left;
+}
+
+.five {
+  top: 0;
+  float: left;
+}
+
+.six {
+  top: 0;
+  float: left;
+}
+
+.seven {
+  top: 0;
+  float: left;
+}
+
+.eight {
+  top: 0;
+  float: left;
+}
+
+.nine {
+  top: 0;
+  float: left;
+}
+
+/* row 2 */
+.one_a {
+  float: left;
+}
+
+.two_a {
+  float: left;
+}
+
+.three_a {
+  float: left;
+}
+
+.four_a {
+  float: left;
+}
+
+.five_a {
+  float: left;
+}
+
+.six_a {
+  float: left;
+}
+
+.seven_a {
+  float: left;
+}
+
+.eight_a {
+  float: left;
+}
+
+.nine_a {
+  float: left;
+}
+
+/* row 3 */
+.one_b {
+  float: left;
+}
+
+.two_b {
+  float: left;
+}
+
+.three_b {
+  float: left;
+}
+
+.four_b {
+  float: left;
+}
+
+.five_b {
+  float: left;
+}
+
+.six_b {
+  float: left;
+}
+
+.seven_b {
+  float: left;
+}
+
+.eight_b {
+  float: left;
+}
+
+.nine_b {
+  float: left;
+}
+
+
+
+/* set loading image of first corner of image */
+
+/* tile the image to see if it loads better */
